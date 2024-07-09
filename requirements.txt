@@ -1,1 +1,0 @@
-minecraft-protocol==5.1.2
